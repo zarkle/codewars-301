@@ -14,3 +14,6 @@ It should look like this:
 Sam Harris => S.H
 
 Patrick Feeney => P.F
+
+#### Pair
+Worked on pseudo code with Steven Starwalt
