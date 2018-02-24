@@ -17,3 +17,6 @@ function find_average(array) {
 function find_average(array) {
   return (array.reduce((accumulator, current) => accumulator + current, 0)) / array.length;
 }
+
+// one line with arrow functions
+let find_average = (array => (array.reduce((accumulator, current) => accumulator + current, 0)) / array.length);
